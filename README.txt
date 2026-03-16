@@ -1,8 +1,7 @@
 Podcast Scheduler Project
 ------------------------
 
-Author:HANA SHAIMI 
-ID : 22312235
+Author:Hasnaa Benazrak
 
 Instructions to run:
 1. Open the project in your IDE (Eclipse, IntelliJ, NetBeans, etc.).
